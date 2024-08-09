@@ -28,18 +28,9 @@
 
 Replit automatically handles dependency installation via the `requirements.txt` file. However, if needed, you can manually install dependencies using:
 
-```sh
+
 pip install -r requirements.txt
 
-
-```markdown
-# Setup Instructions
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Setup Environment Variables
 
